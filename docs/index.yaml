@@ -1,8 +1,8 @@
-baseurl: https://machinaide.github.io/twinbase
+baseurl: https://dtw.machinaide.eu
 owner:
   dt-id: http://d-t.fi/juuso
 repo_url: https://github.com/machinaide/twinbase
 new_twin_url: https://github.com/machinaide/twinbase/new/main?filename=docs/edit_this_with_backspace/index.yaml&value=Paste%20a%20DT%20document%20template%20here
 twins:
-- url: https://machinaide.github.io/twinbase/example-twin-e8fde635-e14a-41d7-85f0-676cd10cae32
+- url: https://dtw.machinaide.eu/example-twin-e8fde635-e14a-41d7-85f0-676cd10cae32
   name: Example twin
