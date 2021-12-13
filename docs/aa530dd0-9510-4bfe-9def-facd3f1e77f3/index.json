@@ -1,0 +1,8 @@
+{
+    "dt-id": "https://dtid.org/aa530dd0-9510-4bfe-9def-facd3f1e77f3",
+    "hosting-iri": "https://dtw.machinaide.twinbase.org/aa530dd0-9510-4bfe-9def-facd3f1e77f3",
+    "name": "Sensor 1",
+    "description": "Sensor 1 of Turkish factory",
+    "baseurl": "https://dtw.machinaide.twinbase.org",
+    "edit": "https://github.com/machinaide/twinbase/edit/main/docs/aa530dd0-9510-4bfe-9def-facd3f1e77f3/index.yaml"
+}
