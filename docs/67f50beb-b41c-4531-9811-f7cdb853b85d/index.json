@@ -1,0 +1,8 @@
+{
+    "dt-id": "https://dtid.org/67f50beb-b41c-4531-9811-f7cdb853b85d",
+    "hosting-iri": "https://dtw.machinaide.twinbase.org/67f50beb-b41c-4531-9811-f7cdb853b85d",
+    "name": "Press machine",
+    "description": "Press machine of Turkish factory",
+    "baseurl": "https://dtw.machinaide.twinbase.org",
+    "edit": "https://github.com/machinaide/twinbase/edit/main/docs/67f50beb-b41c-4531-9811-f7cdb853b85d/index.yaml"
+}
