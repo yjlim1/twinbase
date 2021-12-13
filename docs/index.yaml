@@ -36,3 +36,5 @@ twins:
   name: OSEMA sensor
 - url: https://dtw.machinaide.twinbase.org/51db6dcc-47f8-42f9-926b-a59314f2af35
   name: Grinding machine
+- url: https://dtw.machinaide.twinbase.org/0e120fb5-e931-4f2d-8aeb-5a9f371e3013
+  name: Kuka robot 1
