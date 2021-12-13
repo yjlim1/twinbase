@@ -1,6 +1,13 @@
+privacy: public
 dt-id: https://dtid.org/e96c7cfa-5bae-4e44-821d-09d1040818c1
 hosting-iri: https://dtw.machinaide.twinbase.org/e96c7cfa-5bae-4e44-821d-09d1040818c1
 name: Crane
 description: Crane located in the Finland factory
 baseurl: https://dtw.machinaide.twinbase.org
 edit: https://github.com/machinaide/twinbase/edit/main/docs/e96c7cfa-5bae-4e44-821d-09d1040818c1/index.yaml
+owner:
+  name: Aalto-yliopistosäätiö
+  website: https://www.aalto.fi
+manufacturer:
+  name: Konecranes
+  website: https://www.konecranes.com
