@@ -4,5 +4,15 @@
     "name": "Finland factory",
     "description": "Finland factory of the Machinaide project.",
     "baseurl": "https://dtw.machinaide.twinbase.org",
-    "edit": "https://github.com/machinaide/twinbase/edit/main/docs/f92f8728-13ff-42c8-8a3e-94c6d1b62fa6/index.yaml"
+    "edit": "https://github.com/machinaide/twinbase/edit/main/docs/f92f8728-13ff-42c8-8a3e-94c6d1b62fa6/index.yaml",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/e96c7cfa-5bae-4e44-821d-09d1040818c1",
+            "relationType": "parent"
+        },
+        {
+            "dt-id": "https://dtid.org/51db6dcc-47f8-42f9-926b-a59314f2af35",
+            "relationType": "child"
+        }
+    ]
 }
