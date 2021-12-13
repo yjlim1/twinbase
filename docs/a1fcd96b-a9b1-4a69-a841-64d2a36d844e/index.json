@@ -4,5 +4,11 @@
     "name": "AMR2",
     "description": "Autonomous Mobile Robot (AMR) 2 of Korea testbed",
     "baseurl": "https://dtw.machinaide.twinbase.org",
-    "edit": "https://github.com/machinaide/twinbase/edit/main/docs/a1fcd96b-a9b1-4a69-a841-64d2a36d844e/index.yaml"
+    "edit": "https://github.com/machinaide/twinbase/edit/main/docs/a1fcd96b-a9b1-4a69-a841-64d2a36d844e/index.yaml",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/e5917d31-adc6-4ed5-9060-328fee349df8",
+            "relationType": "parent"
+        }
+    ]
 }
