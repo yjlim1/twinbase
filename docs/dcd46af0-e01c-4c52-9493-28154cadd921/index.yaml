@@ -4,3 +4,6 @@ name: OSEMA sensor
 description: OSEMA sensor attached to Crane in Finland factory
 baseurl: https://dtw.machinaide.twinbase.org
 edit: https://github.com/machinaide/twinbase/edit/main/docs/dcd46af0-e01c-4c52-9493-28154cadd921/index.yaml
+relations:
+- dt-id: https://dtid.org/e96c7cfa-5bae-4e44-821d-09d1040818c1
+  relationType: parent
