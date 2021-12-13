@@ -4,5 +4,11 @@
     "name": "Environmental sensor",
     "description": "Envoronmental sensor located in Korea testbed",
     "baseurl": "https://dtw.machinaide.twinbase.org",
-    "edit": "https://github.com/machinaide/twinbase/edit/main/docs/b4f930cf-d2d4-4be6-b75d-c80717e6f87b/index.yaml"
+    "edit": "https://github.com/machinaide/twinbase/edit/main/docs/b4f930cf-d2d4-4be6-b75d-c80717e6f87b/index.yaml",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/e5917d31-adc6-4ed5-9060-328fee349df8",
+            "relationType": "parent"
+        }
+    ]
 }
