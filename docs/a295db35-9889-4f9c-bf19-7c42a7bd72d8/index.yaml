@@ -4,3 +4,6 @@ name: 3D printer
 description: 3D printer located in Netherlands factory
 baseurl: https://dtw.machinaide.twinbase.org
 edit: https://github.com/machinaide/twinbase/edit/main/docs/a295db35-9889-4f9c-bf19-7c42a7bd72d8/index.yaml
+relations:
+- dt-id: https://dtid.org/0d8a59d0-0742-4b77-899d-5ca0d4e22b1e
+  relationType: parent
