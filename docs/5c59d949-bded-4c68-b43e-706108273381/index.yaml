@@ -4,3 +4,6 @@ name: AMR1
 description: Autonomous Mobile Robot (AMR) 1 of Korea testbed
 baseurl: https://dtw.machinaide.twinbase.org
 edit: https://github.com/machinaide/twinbase/edit/main/docs/5c59d949-bded-4c68-b43e-706108273381/index.yaml
+relations:
+- dt-id: https://dtid.org/e5917d31-adc6-4ed5-9060-328fee349df8
+  relationType: parent
