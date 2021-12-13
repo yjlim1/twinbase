@@ -1,0 +1,8 @@
+{
+    "dt-id": "https://dtid.org/fe274bc5-2737-47e3-84fe-390592026f8e",
+    "hosting-iri": "https://dtw.machinaide.twinbase.org/fe274bc5-2737-47e3-84fe-390592026f8e",
+    "name": "Juno robot",
+    "description": "Juno robot of Netherlands factory",
+    "baseurl": "https://dtw.machinaide.twinbase.org",
+    "edit": "https://github.com/machinaide/twinbase/edit/main/docs/fe274bc5-2737-47e3-84fe-390592026f8e/index.yaml"
+}
