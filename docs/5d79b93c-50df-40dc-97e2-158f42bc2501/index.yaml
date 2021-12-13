@@ -4,3 +4,6 @@ name: Charging station
 description: Charging station located in Korea testbed
 baseurl: https://dtw.machinaide.twinbase.org
 edit: https://github.com/machinaide/twinbase/edit/main/docs/5d79b93c-50df-40dc-97e2-158f42bc2501/index.yaml
+relations:
+- dt-id: https://dtid.org/e5917d31-adc6-4ed5-9060-328fee349df8
+  relationType: parent
