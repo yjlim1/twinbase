@@ -1,4 +1,7 @@
-dt-id: autoassign|https://dtid.org
-hosting-iri: autoassign
+dt-id: https://dtid.org/e0fd6ea0-a610-4680-9c75-2911f34f71b9
+hosting-iri: https://dtw.machinaide.twinbase.org/e0fd6ea0-a610-4680-9c75-2911f34f71b9
 name: Machinaide ecosystem
-description: "Root DT for the Machinaide ecosystem developed in the Machinaide project. More info: https://www.machinaide.eu/"
+description: 'Root DT for the Machinaide ecosystem developed in the Machinaide project.
+  More info: https://www.machinaide.eu/'
+baseurl: https://dtw.machinaide.twinbase.org
+edit: https://github.com/machinaide/twinbase/edit/main/docs/e0fd6ea0-a610-4680-9c75-2911f34f71b9/index.yaml
