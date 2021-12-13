@@ -6,6 +6,8 @@ new_twin_url: https://github.com/machinaide/twinbase/new/main?filename=docs/edit
 twins:
 - url: https://dtw.machinaide.twinbase.org/0d8a59d0-0742-4b77-899d-5ca0d4e22b1e
   name: Netherlands factory
+- url: https://dtw.machinaide.twinbase.org/89055abd-d2a6-451e-8519-e9961074919e
+  name: Bridge
 - url: https://dtw.machinaide.twinbase.org/f92f8728-13ff-42c8-8a3e-94c6d1b62fa6
   name: Finland factory
 - url: https://dtw.machinaide.twinbase.org/e5917d31-adc6-4ed5-9060-328fee349df8
