@@ -4,3 +4,8 @@ name: Hoist
 description: Hoist of Crane in Finland factory
 baseurl: https://dtw.machinaide.twinbase.org
 edit: https://github.com/machinaide/twinbase/edit/main/docs/4881a2d1-f510-4dba-8e48-56e5e3a8cc80/index.yaml
+relations:
+- dt-id: https://dtid.org/e96c7cfa-5bae-4e44-821d-09d1040818c1
+  relationType: parent
+- dt-id: https://dtid.org/dc06922f-f1bd-47c8-8868-3630fdfd5878
+  relationType: parent
