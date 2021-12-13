@@ -46,3 +46,5 @@ twins:
   name: AMR1
 - url: https://dtw.machinaide.twinbase.org/0e120fb5-e931-4f2d-8aeb-5a9f371e3013
   name: Kuka robot 1
+- url: https://dtw.machinaide.twinbase.org/5d79b93c-50df-40dc-97e2-158f42bc2501
+  name: Charging station
