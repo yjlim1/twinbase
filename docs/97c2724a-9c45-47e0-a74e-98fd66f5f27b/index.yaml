@@ -1,4 +1,6 @@
-dt-id: autoassign|https://dtid.org
-hosting-iri: autoassign
+dt-id: https://dtid.org/97c2724a-9c45-47e0-a74e-98fd66f5f27b
+hosting-iri: https://dtw.machinaide.twinbase.org/97c2724a-9c45-47e0-a74e-98fd66f5f27b
 name: Conveyor
 description: Conveyer located in Korea testbed
+baseurl: https://dtw.machinaide.twinbase.org
+edit: https://github.com/machinaide/twinbase/edit/main/docs/97c2724a-9c45-47e0-a74e-98fd66f5f27b/index.yaml
