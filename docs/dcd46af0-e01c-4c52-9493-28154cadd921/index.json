@@ -1,0 +1,8 @@
+{
+    "dt-id": "https://dtid.org/dcd46af0-e01c-4c52-9493-28154cadd921",
+    "hosting-iri": "https://dtw.machinaide.twinbase.org/dcd46af0-e01c-4c52-9493-28154cadd921",
+    "name": "OSEMA sensor",
+    "description": "OSEMA sensor attached to Crane in Finland factory",
+    "baseurl": "https://dtw.machinaide.twinbase.org",
+    "edit": "https://github.com/machinaide/twinbase/edit/main/docs/dcd46af0-e01c-4c52-9493-28154cadd921/index.yaml"
+}
