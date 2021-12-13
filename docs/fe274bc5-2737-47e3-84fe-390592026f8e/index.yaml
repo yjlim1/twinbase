@@ -4,3 +4,6 @@ name: Juno robot
 description: Juno robot of Netherlands factory
 baseurl: https://dtw.machinaide.twinbase.org
 edit: https://github.com/machinaide/twinbase/edit/main/docs/fe274bc5-2737-47e3-84fe-390592026f8e/index.yaml
+relations:
+- dt-id: https://dtid.org/0d8a59d0-0742-4b77-899d-5ca0d4e22b1e
+  relationType: parent
