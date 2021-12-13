@@ -16,6 +16,8 @@ twins:
   name: Korea testbed
 - url: https://dtw.machinaide.twinbase.org/a1fcd96b-a9b1-4a69-a841-64d2a36d844e
   name: AMR2
+- url: https://dtw.machinaide.twinbase.org/b4f930cf-d2d4-4be6-b75d-c80717e6f87b
+  name: Environmental sensor
 - url: https://dtw.machinaide.twinbase.org/4881a2d1-f510-4dba-8e48-56e5e3a8cc80
   name: Hoist
 - url: https://dtw.machinaide.twinbase.org/e0fd6ea0-a610-4680-9c75-2911f34f71b9
