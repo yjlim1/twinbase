@@ -6,3 +6,5 @@ new_twin_url: https://github.com/machinaide/twinbase/new/main?filename=docs/edit
 twins:
 - url: https://dtw.machinaide.twinbase.org/example-twin-e8fde635-e14a-41d7-85f0-676cd10cae32
   name: Example twin
+- url: https://dtw.machinaide.twinbase.org/e0fd6ea0-a610-4680-9c75-2911f34f71b9
+  name: Machinaide ecosystem
