@@ -13,5 +13,27 @@
     "manufacturer": {
         "name": "Konecranes",
         "website": "https://www.konecranes.com"
-    }
+    },
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/f92f8728-13ff-42c8-8a3e-94c6d1b62fa6",
+            "relationType": "parent"
+        },
+        {
+            "dt-id": "https://dtid.org/dcd46af0-e01c-4c52-9493-28154cadd921",
+            "relationType": "child"
+        },
+        {
+            "dt-id": "https://dtid.org/89055abd-d2a6-451e-8519-e9961074919e",
+            "relationType": "child"
+        },
+        {
+            "dt-id": "https://dtid.org/4881a2d1-f510-4dba-8e48-56e5e3a8cc80",
+            "relationType": "child"
+        },
+        {
+            "dt-id": "https://dtid.org/dc06922f-f1bd-47c8-8868-3630fdfd5878",
+            "relationType": "child"
+        }
+    ]
 }
