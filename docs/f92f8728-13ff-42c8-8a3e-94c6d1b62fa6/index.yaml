@@ -9,3 +9,5 @@ relations:
   relationType: parent
 - dt-id: https://dtid.org/51db6dcc-47f8-42f9-926b-a59314f2af35
   relationType: child
+- dt-id: https://dtid.org/89055abd-d2a6-451e-8519-e9961074919e
+  relationType: child
