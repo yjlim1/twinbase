@@ -4,5 +4,19 @@
     "name": "Conveyor",
     "description": "Conveyer located in Korea testbed",
     "baseurl": "https://dtw.machinaide.twinbase.org",
-    "edit": "https://github.com/machinaide/twinbase/edit/main/docs/97c2724a-9c45-47e0-a74e-98fd66f5f27b/index.yaml"
+    "edit": "https://github.com/machinaide/twinbase/edit/main/docs/97c2724a-9c45-47e0-a74e-98fd66f5f27b/index.yaml",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/e5917d31-adc6-4ed5-9060-328fee349df8",
+            "relationType": "parent"
+        },
+        {
+            "dt-id": "https://dtid.org/a95e51fb-5e98-49a9-9786-beb27cd73384",
+            "relationType": "child"
+        },
+        {
+            "dt-id": "https://dtid.org/a207283a-98ea-4393-ac15-229ee96e0488",
+            "relationType": "child"
+        }
+    ]
 }
