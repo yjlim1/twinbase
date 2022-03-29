@@ -22,3 +22,5 @@ relations:
   relationType: child
 - dt-id: https://dtid.org/dc06922f-f1bd-47c8-8868-3630fdfd5878
   relationType: child
+- dt-id: https://dtid.org/8782b367-6a91-430d-b64e-15d399d9a6f2
+  relationType: sameAs
