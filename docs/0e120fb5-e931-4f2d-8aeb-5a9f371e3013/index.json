@@ -1,8 +1,8 @@
 {
     "dt-id": "https://dtid.org/0e120fb5-e931-4f2d-8aeb-5a9f371e3013",
     "hosting-iri": "https://dtw.machinaide.twinbase.org/0e120fb5-e931-4f2d-8aeb-5a9f371e3013",
-    "name": "Kuka robot 1",
-    "description": "Kuka robot 1 of Turkish factory",
+    "name": "Robot arm 1",
+    "description": "Robot arm 1 of Turkish factory",
     "baseurl": "https://dtw.machinaide.twinbase.org",
     "edit": "https://github.com/machinaide/twinbase/edit/main/docs/0e120fb5-e931-4f2d-8aeb-5a9f371e3013/index.yaml"
 }
